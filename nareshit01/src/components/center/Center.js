@@ -3,7 +3,7 @@ import React from "react";
 export default function Center() {
   return (
     <div style={{ backgroundColor: "lightblue", padding: "20px" }}>
-      Hello Center
+      Hello Center!
     </div>
   );
 }
